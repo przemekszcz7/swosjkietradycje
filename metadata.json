@@ -1,0 +1,6 @@
+{
+  "name": "Swojskie Tradycje",
+  "description": "Profesjonalna, apetyczna i estetyczna strona dla marki Swojskie Tradycje - Wyroby, Ciasta, Garmażeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
